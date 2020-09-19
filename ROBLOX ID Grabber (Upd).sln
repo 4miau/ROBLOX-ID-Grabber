@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROBLOX ID Grabber (Upd)", "ROBLOX ID Grabber (Upd)\ROBLOX ID Grabber (Upd).csproj", "{FF241BC4-69D3-421F-ADE0-9D3351C3801B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF241BC4-69D3-421F-ADE0-9D3351C3801B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF241BC4-69D3-421F-ADE0-9D3351C3801B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF241BC4-69D3-421F-ADE0-9D3351C3801B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF241BC4-69D3-421F-ADE0-9D3351C3801B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {387347CE-8625-48A2-A7C3-D3644649F389}
+	EndGlobalSection
+EndGlobal
